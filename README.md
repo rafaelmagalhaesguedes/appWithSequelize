@@ -1,5 +1,5 @@
-# App With Sequelizer
+# App With Sequelize
 
 ## Description
 
-Creating a CRUD to test the sequelizer library
+Creating a CRUD to test the sequelize library
